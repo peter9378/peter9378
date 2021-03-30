@@ -1,6 +1,6 @@
 ### Party Parrot Dongjin Park
 
-* Working as a **Data Engineer**. *a.k.a BackEnd Engineer* **in NAVER**
+* Working as a **Data Engineer**. *a.k.a BackEnd Engineer* **in NAVER** *at home*
 * Mainly using **Shell, Scala, C++** *feat. Java, Python*
 * Interested in **Spark, ElasticSearch** *like BIG DATA*
 
