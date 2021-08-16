@@ -2,7 +2,7 @@
 
 * Working as a **Data Engineer**. *a.k.a BackEnd Engineer* **in NAVER** *at home*
 * Mainly using **Shell, Scala, C++** *feat. Java, Python*
-* Interested in **Spark, ElasticSearch** *like BIG DATA*
+* Interested in **Spark, ElasticSearch** *with BIG DATA*
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dongjin-park-054922116/)](https://www.linkedin.com/in/dongjin-park-054922116/)
 
