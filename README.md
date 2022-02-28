@@ -1,8 +1,11 @@
 ### Party Parrot Dongjin Park
 
 * Working as a **Data Engineer**. *a.k.a BackEnd Engineer* **in NAVER** *at home*
-* Mainly using **Scala, Shell** *feat. Java, Python*
 * Interested in **Spark, ElasticSearch, K8S** *with BIG DATA*
+    - Spark on K8s with Spark Operator
+    - Spark 2.x ~ Spark 3.2.1
+        - for batch, dstream, sstream
+* Mainly using **Scala, Shell** *feat. Java, Python*
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dongjin-park-054922116/)](https://www.linkedin.com/in/dongjin-park-054922116/)
 
