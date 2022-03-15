@@ -3,7 +3,7 @@
 * Working as a **Data Engineer**. *a.k.a BackEnd Engineer* **in NAVER** *at home*
 * Interested in **Spark, ElasticSearch, K8S** *with BIG DATA*
     - Spark on K8s with Spark Operator
-    - Spark 2.x ~ Spark 3.x
+    - Spark 2.x ~ 3.x
         - for batch, dstream, sstream
 * Mainly using **Scala, Shell** *feat. Java, Python*
 
